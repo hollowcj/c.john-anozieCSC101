@@ -1,0 +1,18 @@
+Lager:
+33 Export
+Desperados
+Goldberg
+Gulder
+Heineken
+Star
+
+Stout:
+Legend
+Turbo
+Williams
+
+Non-alcoholic:
+Maltina
+Amstel Malta
+Malta Gold
+Fayrouz
