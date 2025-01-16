@@ -30,6 +30,4 @@ fn main()
     let mut files = std::fs::File::open("smis.txt").expect("read failed");
     files.read_to_string(&mut contents).expect("read failed");
     println!("{}",contents);
-    
-
 }
